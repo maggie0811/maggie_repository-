@@ -1,8 +1,12 @@
 # maggie_repository-
-My portfolio page for Telling Stories with Data
 
-#About Me
+Welcome to my portfolio page for Telling Stories with Data
 
-##What I Hope to Learn...
+## About Me
+My name is Maggie Harger, and I am a second year master's student in public policy at Carnegie Mellon University. 
 
-#Portfolio
+## What I Hope to Learn...
+
+# Portfolio
+
+
