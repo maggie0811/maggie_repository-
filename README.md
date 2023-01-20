@@ -11,6 +11,10 @@ By taking this course, I hope to learn how to select the best data for conveing 
 
 When I graduate, I plan to get a job working directly in governments or with governments as a consultant. I would like to specifically focus on policy related to transportation and city planning. 
 
+[logo]
+
+[logo]: https://github.com/maggie0811/maggie_repository-/blob/pictures/PXL_20221221_224006532.jpg
+
 # Portfolio
 
 ### Assignment 1
