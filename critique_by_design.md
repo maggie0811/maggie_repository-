@@ -58,7 +58,7 @@ Taking this feedback, I created the final visualization as can be seen below.
 
 This final visualization incorporates much of the feedback I recieved with my first two iterations of the design. I redesigned the chart using Flourish, which allowed me to incorporate the quadrants with a small label that clearly identifies which section of the chart is "ideal" for PRT's service goals. Additionally, I used distinct colors, gold for the routes that satisfied the desired critera, and grey for the routes which did not. I also changed the title and added a subtitle to make it cery clear what message the graph is conveying. I also added hovering data keys, so the reader could assess each route and the metrics associated with it individually. This also helps them understand that the size of the dot relates to the weekday ridership levels. I added a key which only lists the three routes achieving ideal standards, which makes it clear that these are the routes of focus. Additionally, the high ridership routes can still be seen in the quadrant on the high end of the ridership scale, and the low crowding routes can also be distinguished. Finally, I added small route number labels to the dots, to make it clear that these dots are unique bus routes. This idea is also reflected in the updated subtitle.
 
-Overall, the iteratve process of redesigning these graphics was useful, and resulted in a chart that paints a clearer picture of overall trends, rather than just summarizing small components of the data.
+Overall, the iterative process of redesigning these graphics was useful, and resulted in a chart that paints a clearer picture of overall trends, rather than just summarizing small components of the data.
 
 -------------------------------------
  
