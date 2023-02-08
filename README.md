@@ -18,6 +18,6 @@ When I graduate, I plan to get a job working directly in governments or with gov
 
 ### Assignment: [Visualizing Government Debt](visualizing_debt)
 
-### Assignment: [Assignment 2 Name]()
+### Assignment: [Critique By Design](critique_by_design)
 
 ### Final Project: [Final Project]()
