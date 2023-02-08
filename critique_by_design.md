@@ -44,7 +44,8 @@ I presented this sketch to two students in my program, both in their mid 20's. R
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-##
+
+
 After creating this visualization, I presented it to my two roommates, both also students in their mid 20's. I also let them see my initial sketch, to see if there were any elements they felt I should incorporate since I had not included everything from my initial sketch in the digital version. My first roomate primarily discussed the importance of adding color to the chart. She felt it was hard to tell what the colors meant, and noted that they were not very bold. Additionally, she noticed the word "decline" in the title, but did not see any declining trend in the data, so was curious what type of trend she should be looking for. She also talked about the sizing of the circles, and wanted to know what that meant. Essentially, having just looked at the chart with no context, she felt like she still had a lot of questions about the data and what story I was trying to tell. Additionally, after seeing my initial sketch, she liked the idea of a dividing line to separate the "good" quadrants from the "bad," since this was not apparent ust by looking at the x & y axes.
 
 My other roommate had similar feedback. By this time in the process, I had converted the chart to a Flourish visualization with separate quadrants for "good" and "bad" ridership metrics, since I could not figure out how to add quadrants easily in Tableau. However, much of the remaining visualization looked the same. My other roommate also wanted to know about the color scheme, since the meaning behind this was not easily apparent to her. She also wanted to know why the dots were different sizes. Finally, the fact that the points themselves represented bus routes was initially unclear to her. She recommended to clarify this in the title of the visualization, as well as by using labels for the points, so the reader could understand that they represented different bus routes.
@@ -58,12 +59,9 @@ Taking this feedback, I created the final visualization as can be seen below.
 This final visualization incorporates much of the feedback I recieved with my first two iterations of the design. I redesigned the chart using Flourish, which allowed me to incorporate the quadrants with a small label that clearly identifies which section of the chart is "ideal" for PRT's service goals. Additionally, I used distinct colors, gold for the routes that satisfied the desired critera, and grey for the routes which did not. I also changed the title and added a subtitle to make it cery clear what message the graph is conveying. I also added hovering data keys, so the reader could assess each route and the metrics associated with it individually. This also helps them understand that the size of the dot relates to the weekday ridership levels. I added a key which only lists the three routes achieving ideal standards, which makes it clear that these are the routes of focus. Additionally, the high ridership routes can still be seen in the quadrant on the high end of the ridership scale, and the low crowding routes can also be distinguished. Finally, I added small route number labels to the dots, to make it clear that these dots are unique bus routes. This idea is also reflected in the updated subtitle.
 
 Overall, the iteratve process of redesigning these graphics was useful, and resulted in a chart that paints a clearer picture of overall trends, rather than just summarizing small components of the data.
+
+-------------------------------------
  
-
-
-
-
-
 
 
 
