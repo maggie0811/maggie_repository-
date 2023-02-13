@@ -20,4 +20,4 @@ When I graduate, I plan to get a job working directly in governments or with gov
 
 ### Assignment: [Critique By Design](critique_by_design)
 
-### Final Project: [Final Project]()
+### Final Project: [Final Project](final_project_1)
