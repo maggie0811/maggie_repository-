@@ -18,20 +18,14 @@ Additionally, I have drafted a user story statement, which helps put the project
 > As a reader, I want ta better understanding of the problems with non-native species in Olympic National Park, as well as efforts that are underway to address these issues, specifically with respect to mountain goats. This will enable me to make informed decisions about good wildlife management practices, as well as increase my knowledge of the current state of goat populations in Washington State.
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
-Text here...
+
+My initial sketches for the project can be seen below:
+
+<img src="https://raw.githubusercontent.com/maggie0811/maggie_repository-/main/final%20project%20sketch.jpg" width = "500"/>
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-Text here...
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+My data will be sourced primarily from two reports. The first one is the [Olympic National Park Mountain Goat Management Plan Final EIS](https://parkplanning.nps.gov/document.cfm?parkID=329&projectID=49246&documentID=87542), which details current conditions at the park, as well as anticipated impacts of the program. This will help a lot with the "Conflict" portion of the story, because it has a lot of mid-project information about expected impacts of the management plan, as well as information about the interactions between the goats and humans. I will also be using the [Olympic National Park](https://www.nps.gov/olym/planyourvisit/mountain-goat-capture-and-translocation.htm) website, which provides information and data related to the final counts of mountain goats removed from the park. Additionally, I will be using data from the [United States Geological Survey (USGS)](https://pubs.usgs.gov/of/2016/1185/ofr20161185.pdf) which has data on the historical counts of goats at the park, as well as projected population estimates from the time when the report was released. Finally, I will be using another [USGS Report](https://pubs.usgs.gov/of/2011/1107/pdf/ofr20111107.pdf) to get numbers related to the native mountain goat population elsewhere in Washington.
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-Text here...
+With respect to final presentation, I plan to create the charts primarily in Flourish, but may use Tableau if it seems like it is a better option for the specific dataset. I was thinking specifically of the heatmap I am planning to make. The method of presentation will be a story in Shorthand, which will allow me to incorporate my charts with other elements of the presentation, such as photographs and text.
