@@ -6,8 +6,16 @@ My project will focus on a conservation effort in Olympic National Park in Washi
 
 Many of the aforementioned metrics are available online in the Environmental Impact Statement EIS), as well as past research efforts to count the mountain goat population in Olympic National Park. However, a lot of the data is presented as simple tables or basic graphs in the report, or literally just in long paragraphs of text. This makes it a good candidate for a data visualization story. 
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
-Text here...
+## Project Structure
+This project will have three key features, the setup, conflict and resolution. The basic setup involves laying out the problem of mountain goats in Olympic National Park. I will provide data about the population growth, growth projections, and background information about the introduction of the species to a new environment. With respect to the conflict, I will provide information about the impact of the goat to the environment, as well as data about the encounters goats are having with humans, which is not good for the population. Finally, I will provide a resolution to the story, which is essentially information about how the removal program helped remove the goats from the park. Some of the goats ended up in other mountains, others were transfered to zoos, and some were killed.
+
+The following image shows a general story arc diagram that I anticipate readers of the story to travel along:
+
+> <img src="https://raw.githubusercontent.com/maggie0811/maggie_repository-/main/final%20project%20emotional%20rollercoaster.jpg" width = "400"/>
+
+Additionally, I have drafted a user story statement, which helps put the project into more context:
+
+> As a reader, I want ta better understanding of the problems with non-native species in Olympic National Park, as well as efforts that are underway to address these issues, specifically with respect to mountain goats. This will enable me to make informed decisions about good wildlife management practices, as well as increase my knowledge of the current state of goat populations in Washington State.
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
