@@ -1,4 +1,4 @@
-| [home page](https://maggie0811.github.io/maggie_repository-/) | [visualizing government debt](visualizing_debt) | [critique by design](critique_by_design) | [final project I]() | [final project II]() | [final project III]() |
+| [home page](https://maggie0811.github.io/maggie_repository-/) | [visualizing government debt](visualizing_debt) | [critique by design](critique_by_design) | [final project I](final_project_1) | [final project II]() | [final project III]() |
 
 # Critique by Design: Pittsburgh Regional Transit Trends
 
