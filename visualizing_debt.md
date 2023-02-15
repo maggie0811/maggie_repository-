@@ -1,4 +1,4 @@
-| [home page](https://maggie0811.github.io/maggie_repository-/) | [visualizing government debt](visualizing_debt) | [critique by design](critique_by_design) | [final project I](final_rpoject_1) | [final project II](final_project_2) | [final project III](final_project_3) |
+| [home page](https://maggie0811.github.io/maggie_repository-/) | [visualizing government debt](visualizing_debt) | [critique by design](critique_by_design) | [final project I](final_project_1) | [final project II](final_project_2) | [final project III](final_project_3) |
 
 # Visualizing Government Debt
 
