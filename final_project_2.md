@@ -1,4 +1,4 @@
-| [home page](https://maggie0811.github.io/maggie_repository-/) | [visualizing government debt](visualizing_debt) | [critique by design](critique_by_design) | [final project I](final_project_1) | [final project II](final_project_2) | [final project III]() |
+| [home page](https://maggie0811.github.io/maggie_repository-/) | [visualizing government debt](visualizing_debt) | [critique by design](critique_by_design) | [final project I](final_project_1) | [final project II](final_project_2) | [final project III](final_project_3) |
 
 # Wireframes / storyboards
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out direclty in Shorthand this week if you wish.
