@@ -59,12 +59,12 @@ This interview was also with a student my age, but who has a stronger data scien
 This interview was with an environmental professional, so I was happy to have that perspective. Their background is mostly in air quality, however they have still taken some classes in biology and ecosystem services in the past.
 
 >_Does the story seem relevant to you?_
-"I like that there is a lot of pictures. It makes me want to spend more time on the slide and the byproduct is reading your text"
+
+"I like that there is a lot of pictures. It makes me want to spend more time on the slide and the byproduct is I also spend time reading your text."
 
 >_What did you think of the charts?_
-"For the map I don't know what ranges I am supposed to be looking at, maybe a circle? Also title the map. Center the title, and it can be bigger. It is also really nice when the map and title are both fully visible on the screen at the same time. 12 to how many goats? Something to tie the transition from 12 to the next map."
 
-"Put parenthesis around the dates on the pop. growth. Also the text should change. For the alternatives chart make sure it fits fully on the screen.
+"For the map I don't know what ranges I am supposed to be looking at, maybe a circle? Also title the map. Center the title, and it can be bigger. It is also really nice when the map and title are both fully visible on the screen at the same time. 12 to how many goats? Something to tie the transition from 12 to the next map. Also you could put parenthesis around the dates on the pop. growth. Also the text should change. For the alternatives chart make sure it fits fully on the screen.
 
 "Overall the structure makes a lot of sense, you gave context and said what the solution was. Improve the graphic labels, maybe add more highlighting colors, make sure all the graphics fit on the screen at the same time."
 
@@ -76,18 +76,22 @@ This interview was with an environmental professional, so I was happy to have th
 
 Overall, the feedback I got was positive, with some critiques about the visualizations and story structure. When people viewed the outline with limited context they found some of the story hard to follow. However, with additional text and information, they felt that the story was good. I also got a lot of good reviews about the pictures I chose, which was nice.
 
-The below table charts my more specific observations.
+The below synthesis lays out more detailed changes:
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Both maps need to change.                | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+> Both maps need to change
 
-> ...include any final thoughts you have here. 
-Text here!
+I will create maps with clearer labels of the two regions. I will also add some more color coding and legents to the map that will help the viewer understand that the dots are meant to represent goat populations. 
+
+> The human/goat interaction graph is a little difficult to understand.
+
+I plan to simplify this chart even more into two colors, one that highlights unwanted interactions vs. interactions that are ok. I don't think I need so many colors for each category.
+
+> People wanted more background context
+
+Whether it was about the park itself or more information about the goats, people generally wanted more narrative about the background context. I plan to add more information in text as well as use some textbox callouts to point to some key data points or ideas.
+
+Using this information, I plan to further refine my graphics and some of the narrative structure. I want to make sure I add more text, as well as some smaller datapoints that can be incorporated into the text itself. I am glad that people responded positively to the overall narrative structure, so I will mostly work on adding more detail to each section, and making some changes to my charts in the next week. Finally, I want to try to add a few more animations for my graphics, especially the population growth one because I think that one could actually be animated to show the slope of the line increasing over time.
+
 
 # Moodboard
 
