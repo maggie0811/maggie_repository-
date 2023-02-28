@@ -1,10 +1,10 @@
-| [home page](https://maggie0811.github.io/maggie_repository-/) | [visualizing government debt](visualizing_debt) | [critique by design](critique_by_design) | [final project I](final_rpoject_1) | [final project II](final_project_2) | [final project III](final_project_3) |
+| [home page](https://maggie0811.github.io/maggie_repository-/) | [visualizing government debt](visualizing_debt) | [critique by design](critique_by_design) | [final project I](final_project_1) | [final project II](final_project_2) | [final project III](final_project_3) |
 
-# The final data story
+# Final Project Part III
 
 My final story looked at wildlife management techniques for mountain goats in Washington State, specifically Olympic National Park. The final story can be found on the Shorthand website [here](https://carnegiemellon.shorthandstories.com/management-strategies-for-non-native-species/index.html)
 
-# Changes made since Part II
+# Changes made since [Part II](final_project_2)
 
 Since the completion of my first wireframe iteration, I made quite a few changes to this story. One of the biggest things I got feedback on was adding more narrative structure to the introduction. I incorporated this by creating a GIS map of Washington State which included the national parks located there. I also provided some paragraphs of background about the state and the various parks in this section, to let the reader understand a little more about the ecosystems in the region.
 
