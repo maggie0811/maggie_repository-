@@ -1,5 +1,6 @@
-| [home page](https://maggie0811.github.io/maggie_repository-/) | [visualizing government debt](visualizing_debt) | [critique by design](critique_by_design) | [final project I](final_rpoject_1) | [final project II](final_project_2) | [final project III](final_project_3) |
+| [home page](https://maggie0811.github.io/maggie_repository-/) | [visualizing government debt](visualizing_debt) | [critique by design](critique_by_design) | [final project I](final_project_1) | [final project II](final_project_2) | [final project III](final_project_3) |
 
+# Final Project Part I
 
 # Outline
 My project will focus on a conservation effort in Olympic National Park in Washington State to relocate invasive mountain goats to the nearby Cascade mountain range, where they are native species. I am interested in this topic because I think it is a unique story, and one that has the potential to be told well with several visualizations. I am interested in showing several things with this project. First, I want to focus on the tracked damage that the mountain goats are contributing to the environment, as well as the potential risks they pose to human visitors in the park. Additionally, I want to focus on the trends in mountain goat populaition in the park throughout the years, as well as projected population growth. Then, I will focus on the removal strategy, and the level of success it achieved.
