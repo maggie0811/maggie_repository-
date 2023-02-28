@@ -1,5 +1,7 @@
 | [home page](https://maggie0811.github.io/maggie_repository-/) | [visualizing government debt](visualizing_debt) | [critique by design](critique_by_design) | [final project I](final_project_1) | [final project II](final_project_2) | [final project III](final_project_3) |
 
+# Final Project Part II
+
 # Wireframes / storyboards
 
 To create the wireframe for my final project, I began to create a draft of the project in Shorthand. Overall, I wanted to convey the story of non-native species management in national parks, with a particular focus on the mountain goats in Olympic National Park in Washington State. The story is relatively unique, as approximately 500 mountain goats were transferred from one mountain range to another over the course of several summers. I felt that this would make a good story, and had the data in the form of several official reports to tell the story. The link to my wireframe version of the Shorthand template can be found [here](https://carnegiemellon.shorthandstories.com/management-strategies-for-non-native-species/index.html).
